@@ -1,4 +1,6 @@
 	1861 -- 最小生成樹
+
+	2395 -- 最小生成樹
 	
 	2387 -- Shortest Path Faster Algorithm
 

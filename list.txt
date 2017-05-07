@@ -1,7 +1,9 @@
 	1861 -- 最小生成樹
 
-	2395 -- 最小生成樹
-	
 	2387 -- Shortest Path Faster Algorithm
 
+	2395 -- 最小生成樹
+
+	2584 -- 最大流 + super source + super sink
+	
 	3259 -- 蟲洞,Bellman Ford

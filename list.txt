@@ -4,6 +4,8 @@
 
 	2395 -- 最小生成樹
 
+	2536 -- 最大匹配數 -- Bipartite Graph
+	
 	2584 -- 最大流 + super source + super sink
 	
 	3228 -- disjoint set 的利用 -- 取代二分搜尋+最大流

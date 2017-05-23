@@ -1,5 +1,7 @@
 	1861 -- 最小生成樹
 
+	2352 -- Binary Indexed Tree
+	
 	2387 -- Shortest Path Faster Algorithm
 
 	2395 -- 最小生成樹

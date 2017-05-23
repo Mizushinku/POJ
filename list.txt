@@ -6,6 +6,8 @@
 
 	2395 -- 最小生成樹
 
+	2481 -- Binary Indexed Tree
+	
 	2536 -- 最大匹配數 -- Bipartite Graph
 	
 	2584 -- 最大流 + super source + super sink

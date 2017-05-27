@@ -12,6 +12,8 @@
 	
 	2584 -- 最大流 + super source + super sink
 	
+	3067 -- Binery Indexed Tree
+	
 	3228 -- disjoint set 的利用 -- 取代二分搜尋+最大流
 	
 	3259 -- 蟲洞,Bellman Ford

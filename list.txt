@@ -16,4 +16,6 @@
 	
 	3259 -- 蟲洞,Bellman Ford
 
+	3264 -- Segment Tree
+	
 	3468 -- zwk線段樹
